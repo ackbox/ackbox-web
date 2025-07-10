@@ -8,3 +8,7 @@ theme = "ananke"
     name = "Privacy Policy"
     url = "/privacy-policy/"
     weight = 10
+  [[menu.main]]
+    name = "Terms of Service"
+    url = "/terms-of-service/"
+    weight = 20

@@ -14,5 +14,12 @@
       <guid>http://localhost:1313/privacy-policy/</guid>
       <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;Your privacy is important to us. This policy explains how Ackbx collects, uses, and protects your information.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information Collection&lt;/strong&gt;&#xA;We may collect personal information you provide to us.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Information&lt;/strong&gt;&#xA;We use your information to provide and improve our services.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Information Sharing&lt;/strong&gt;&#xA;We do not share your personal information with third parties except as required by law.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Cookies&lt;/strong&gt;&#xA;Our website may use cookies to enhance your experience.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Terms of Service</title>
+      <link>http://localhost:1313/terms-of-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/terms-of-service/</guid>
+      <description>&lt;h1 id=&#34;terms-of-service&#34;&gt;Terms of Service&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to Ackbx. By using our website, you agree to the following terms and conditions. Please read them carefully.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Acceptance of Terms&lt;/strong&gt;&#xA;By accessing or using our website, you agree to be bound by these Terms of Service.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Changes to Terms&lt;/strong&gt;&#xA;We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Site&lt;/strong&gt;&#xA;You agree to use the site for lawful purposes only.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
