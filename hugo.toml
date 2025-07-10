@@ -2,3 +2,9 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Ackbx"
 theme = "ananke"
+
+[menu]
+  [[menu.main]]
+    name = "Privacy Policy"
+    url = "/privacy-policy/"
+    weight = 10
