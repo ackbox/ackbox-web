@@ -1,0 +1,67 @@
+body {
+  background: #f8f9fb;
+  color: #23272f;
+  font-family: "Inter", Arial, sans-serif;
+}
+
+header,
+.site-header {
+  background: #00c48c;
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #00c48c;
+}
+
+a,
+a:visited {
+  color: #00c48c;
+}
+
+a.button,
+button,
+.btn {
+  background: #00c48c;
+  color: #fff;
+  border: none;
+  padding: 0.75em 1.5em;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: background 0.2s;
+}
+
+a.button:hover,
+button:hover,
+.btn:hover {
+  background: #0057ff;
+}
+
+.main-content,
+.content {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(35, 39, 47, 0.06);
+  padding: 2em;
+  margin: 2em auto;
+  max-width: 700px;
+}
+
+footer,
+.site-footer {
+  background: #23272f;
+  color: #f8f9fb;
+  text-align: center;
+  padding: 1em 0;
+  margin-top: 2em;
+}
+
+.secondary-text {
+  color: #6b7a99;
+}
