@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.ackbx.com/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.ackbx.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacy-policy/</loc>
+    <loc>https://www.ackbx.com/privacy-policy/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.ackbx.com/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/terms-of-service/</loc>
+    <loc>https://www.ackbx.com/terms-of-service/</loc>
   </url>
 </urlset>

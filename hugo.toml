@@ -9,11 +9,11 @@ theme = "hello-friend-ng"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04"
 
-    homeSubtitle = "A simple solutions for complex problems"
+    homeSubtitle = "Useless solutions for simple problems"
     disableReadOtherPosts = false
     enableSharingButtons = true
     enableGlobalLanguageMenu = false
-    description = "A simple solutions for complex problems"
+    description = "Useless solutions for simple problems"
     keywords = "homepage, docs, blog"
     images = ["img/logo-white-bg.png"]
 
@@ -24,6 +24,7 @@ theme = "hello-friend-ng"
   path     = "/images/logo-no-bg.png"
   alt      = "Portrait"
   maxWidth = "150px"
+
 [params.favicon.color]
   mask = "#1b1c1d"
   msapplication = "#1b1c1d"
