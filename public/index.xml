@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ackbx</title>
-    <link>https://www.ackbx.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Ackbx</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://www.ackbx.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Privacy Policy</title>
-      <link>https://www.ackbx.com/privacy-policy/</link>
+      <title>Ackbx :: Terms of Service</title>
+      <link>http://localhost:1313/terms-of-service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ackbx.com/privacy-policy/</guid>
-      <description>&lt;h2 id=&#34;ackbx-ugrabber-chrome-extension&#34;&gt;Ackbx uGrabber Chrome extension&lt;/h2&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Snap, Scribble, Save&lt;/strong&gt; is a Chrome extension designed to help you instantly capture, annotate, and save any webpage with ease. Your privacy is extremely important to us. This policy outlines how the extension handles your data.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h3&gt;&#xA;&lt;p&gt;We do &lt;strong&gt;not collect&lt;/strong&gt;, store, or share any personal data.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No analytics.&lt;/li&gt;&#xA;&lt;li&gt;No tracking.&lt;/li&gt;&#xA;&lt;li&gt;No third-party data sharing.&lt;/li&gt;&#xA;&lt;li&gt;No user profiling.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;permissions-and-usage&#34;&gt;Permissions and Usage&lt;/h3&gt;&#xA;&lt;p&gt;To provide its core functionality, the extension requests certain Chrome permissions:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/terms-of-service/</guid>
+      <description>&lt;p&gt;Welcome to Ackbx. By using our website, you agree to the following terms and conditions. Please read them carefully.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Acceptance of Terms&lt;/strong&gt;&#xA;By accessing or using our website, you agree to be bound by these Terms of Service.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Changes to Terms&lt;/strong&gt;&#xA;We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Site&lt;/strong&gt;&#xA;You agree to use the site for lawful purposes only.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Terms of Service</title>
-      <link>https://www.ackbx.com/terms-of-service/</link>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy-ugrabber/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://www.ackbx.com/terms-of-service/</guid>
-      <description>&lt;p&gt;Welcome to Ackbx. By using our website, you agree to the following terms and conditions. Please read them carefully.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Acceptance of Terms&lt;/strong&gt;&#xA;By accessing or using our website, you agree to be bound by these Terms of Service.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Changes to Terms&lt;/strong&gt;&#xA;We reserve the right to modify these terms at any time. Changes will be effective immediately upon posting.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Use of Site&lt;/strong&gt;&#xA;You agree to use the site for lawful purposes only.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/privacy-policy-ugrabber/</guid>
+      <description>&lt;h2 id=&#34;ackbx-ugrabber-chrome-extension&#34;&gt;Ackbx uGrabber Chrome extension&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date: June 11, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;overview&#34;&gt;Overview&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Snap, Scribble, Save&lt;/strong&gt; is a Chrome extension designed to help you instantly capture, annotate, and save any webpage with ease. Your privacy is extremely important to us. This policy outlines how the extension handles your data.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;data-collection&#34;&gt;Data Collection&lt;/h3&gt;&#xA;&lt;p&gt;We do &lt;strong&gt;not collect&lt;/strong&gt;, store, or share any personal data.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No analytics.&lt;/li&gt;&#xA;&lt;li&gt;No tracking.&lt;/li&gt;&#xA;&lt;li&gt;No third-party data sharing.&lt;/li&gt;&#xA;&lt;li&gt;No user profiling.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;permissions-and-usage&#34;&gt;Permissions and Usage&lt;/h3&gt;&#xA;&lt;p&gt;To provide its core functionality, the extension requests certain Chrome permissions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy-xpenser/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy-xpenser/</guid>
+      <description>&lt;h2 id=&#34;ackbx-xpenser&#34;&gt;Ackbx Xpenser&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Effective Date: July 11, 2025&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Welcome to Ackbx Xpenser! We&amp;rsquo;re committed to protecting your privacy. This Privacy Policy explains how Ackbx Xpenser (referred to as &amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) collects, uses, and safeguards the information you provide when using our website, &amp;lt;xpenser.ackbx.com&amp;gt; (the &amp;ldquo;Service&amp;rdquo;).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-information-we-collect&#34;&gt;1. Information We Collect&lt;/h2&gt;&#xA;&lt;p&gt;Ackbx Xpenser is designed to empower you to manage your finances without requiring access to your bank accounts or linking to other sensitive financial services. We only collect the information you choose to input directly into the Service.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/privacy-policy-ugrabber/&#34;&gt;Ackbx uGrabber Chrome extension&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:1313/privacy-policy-xpenser/&#34;&gt;Ackbx Xpenser&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

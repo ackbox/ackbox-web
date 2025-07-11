@@ -1,6 +1,6 @@
 ---
-title: "Terms of Service"
-description: "Ackbx Terms of Service"
+title: "Ackbx :: Terms of Service"
+description: "Ackbx :: Terms of Service"
 type: "page"
 ---
 
@@ -21,4 +21,4 @@ Welcome to Ackbx. By using our website, you agree to the following terms and con
 5. **Limitation of Liability**
    Ackbx is not liable for any damages arising from the use of this site.
 
-For questions, contact us at info@ackbx.com.
+For questions, contact us at [contact@ackbx.com](mailto:contact@ackbx.com).
