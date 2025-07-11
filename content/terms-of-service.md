@@ -4,8 +4,6 @@ description: "Ackbx Terms of Service"
 type: "page"
 ---
 
-# Terms of Service
-
 Welcome to Ackbx. By using our website, you agree to the following terms and conditions. Please read them carefully.
 
 1. **Acceptance of Terms**

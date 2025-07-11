@@ -1,14 +1,42 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.ackbx.com/"
 languageCode = "en-us"
 title = "Ackbx"
-theme = "ananke"
+theme = "hello-friend-ng"
+
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04"
+
+    homeSubtitle = "A simple solutions for complex problems."
+    disableReadOtherPosts = false
+    enableSharingButtons = true
+    enableGlobalLanguageMenu = false
+    description = "A simple solutions for complex problems"
+    keywords = "homepage, docs, blog"
+    images = ["img/logo-white-bg.png"]
+
+[params.author]
+    name = "Ackbx"
+
+[params.footer]
+    trademark = 2025
+    copyright = true
+    author = true
+
+[params.logo]
+    logoMark     = ">"
+    logoText     = "/dev/ackbx"
+    logoHomeLink = "/"
+    logoCursorColor = "#18bc9c"
 
 [menu]
-  [[menu.main]]
-    name = "Privacy Policy"
-    url = "/privacy-policy/"
-    weight = 10
-  [[menu.main]]
-    name = "Terms of Service"
-    url = "/terms-of-service/"
-    weight = 20
+    [[menu.main]]
+      name = "Privacy Policy"
+      url = "/privacy-policy/"
+      weight = 10
+    [[menu.main]]
+      name = "Terms of Service"
+      url = "/terms-of-service/"
+      weight = 20

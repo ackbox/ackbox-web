@@ -4,8 +4,6 @@ description: "Ackbx Privacy Policy"
 type: "page"
 ---
 
-# Privacy Policy
-
 Your privacy is important to us. This policy explains how Ackbx collects, uses, and protects your information.
 
 1. **Information Collection**
