@@ -9,7 +9,7 @@ theme = "hello-friend-ng"
     dateformNum     = "2006-01-02"
     dateformNumTime = "2006-01-02 15:04"
 
-    homeSubtitle = "A simple solutions for complex problems."
+    homeSubtitle = "A simple solutions for complex problems"
     disableReadOtherPosts = false
     enableSharingButtons = true
     enableGlobalLanguageMenu = false
@@ -20,6 +20,15 @@ theme = "hello-friend-ng"
 [params.author]
     name = "Ackbx"
 
+[params.portrait]
+  path     = "/images/logo-no-bg.png"
+  alt      = "Portrait"
+  maxWidth = "150px"
+[params.favicon.color]
+  mask = "#1b1c1d"
+  msapplication = "#1b1c1d"
+  theme = "#1b1c1d"
+  
 [params.footer]
     trademark = 2025
     copyright = true
