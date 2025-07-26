@@ -6,7 +6,7 @@ type: "page"
 
 **Effective Date: July 11, 2025**
 
-Welcome to Ackbx\! These Terms of Service ("Terms") govern your access to and use of the website [www.ackbx.com](www.ackbx.com) and all related services, features, content, and applications offered by Ackbx (collectively, the "Service"). By accessing or using the Service, you agree to be bound by these Terms and our Privacy Policy (available at [www.ackbx.com/privacy-policy](www.ackbx.com/privacy-policy) or a similar location on <https://www.google.com/search?q=ackbx.com>), which is incorporated herein by reference.
+Welcome to Ackbx\! These Terms of Service ("Terms") govern your access to and use of the website [www.ackbx.com](https://www.ackbx.com) and all related services, features, content, and applications offered by Ackbx (collectively, the "Service"). By accessing or using the Service, you agree to be bound by these Terms and our Privacy Policy (available at [www.ackbx.com/privacy-policy](https://www.ackbx.com/privacy-policy) or a similar location on <https://www.google.com/search?q=ackbx.com>), which is incorporated herein by reference.
 
 **Please read these Terms carefully before using the Service.** If you do not agree to these Terms, you may not use the Service.
 
